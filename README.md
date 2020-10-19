@@ -3,4 +3,4 @@
 langkah-langkahnya
 
 1. buat repo
-![screen 1](gambar/scrren1.png)
+![screen 1](gambar/screen1.png)
